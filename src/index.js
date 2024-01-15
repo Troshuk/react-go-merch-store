@@ -10,7 +10,7 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/react-go-merch-store">
       <App />
     </BrowserRouter>
   </StrictMode>
