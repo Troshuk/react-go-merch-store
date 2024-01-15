@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/index.js",
+  "private": true,
   "homepage": "https://troshuk.github.io/react-go-merch-store/",
   "dependencies": {
     "modern-normalize": "1.1.0",
