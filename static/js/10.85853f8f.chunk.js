@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-go-merch-store"]=this["webpackJsonpreact-go-merch-store"]||[]).push([[10],{32:function(e,t,i){"use strict";i.r(t);var c=i(3);t.default=()=>Object(c.jsxs)("main",{children:[Object(c.jsx)("h1",{children:"Welcome"}),Object(c.jsx)("img",{src:"https://via.placeholder.com/960x240",alt:""}),Object(c.jsx)("p",{children:"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, laboriosam placeat incidunt rem illum animi nemo quibusdam quia voluptatum voluptate."})]})}}]);
+//# sourceMappingURL=10.85853f8f.chunk.js.map
