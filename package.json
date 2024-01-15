@@ -1,0 +1,38 @@
+{
+  "name": "react-go-merch-store",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "homepage": "https://troshuk.github.io/react-go-merch-store/",
+  "dependencies": {
+    "modern-normalize": "1.1.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-router-dom": "6.4.1",
+    "react-scripts": "4.0.0",
+    "styled-components": "5.3.5"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint:js": "eslint src/**/*.{js,jsx}"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
